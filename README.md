@@ -17,6 +17,7 @@ On each turn, the current player should pick the desired column to drop his disc
 ![alt text](https://github.com/IdoSagiv/connect-four/blob/main/images/player_vs_player.gif?raw=true)
 
 ### Play against the AI
+(Blue is the AI)
 ![alt text](https://github.com/IdoSagiv/connect-four/blob/main/images/player_vs_ai.gif?raw=true)
 
 ### Play another game
