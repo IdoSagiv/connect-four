@@ -1,5 +1,5 @@
 # Connect Four game
-This program is my first Python application, and it's a Connect Four game that follows all the regular [rules](https://en.wikipedia.org/wiki/Connect_Four).<br/>
+This is my first Python application, and it's a Connect Four game that follows all the regular [rules](https://en.wikipedia.org/wiki/Connect_Four).<br/>
 ![alt text](https://github.com/IdoSagiv/connect-four/blob/main/images/game_screen.png?raw=true)<br/>
 ## Technologies And Tools
 The program is written in Python, with Tkinter GUI.<br/>
