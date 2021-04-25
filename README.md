@@ -10,7 +10,7 @@ The program was developed on Windows, and tested both over Linux and Windows mac
 2. Choose the disc color of each player
 3. Start the game!<br/>
 ![alt text](https://github.com/IdoSagiv/connect-four/blob/main/images/game_settings.png?raw=true)<br/>
-* PLayer A always plays first.
+* PLayer A plays first.
 
 ### Play against a friend
 On each turn, the current player should pick the desired column to drop his disc on
